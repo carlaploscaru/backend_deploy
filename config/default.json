@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "ploscaru",
+  
+    "db": "mongodb+srv://carla2:11111@ibookcluster.uinntkc.mongodb.net/carla"
+}
