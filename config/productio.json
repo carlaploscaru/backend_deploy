@@ -1,18 +1,8 @@
 
 {
     "jwtPrivateKey": "ploscaru",
-    "database": {
-        "db": "mongodb+srv://carla2:11111@ibookcluster.uinntkc.mongodb.net/carla",
-        "MONGODB_HOST":"ibookcluster.uinntkc.mongodb.net",
-        "MONGODB_DATABASE":"carla",
-        "JWT_KEY":"supersecret",
-        "MONGODB_USER":"carla2",
-        "MONGODB_PASSWORD":"11111"
-    },
-    "server": {
-        "PORT":8000
-    },
-    "BREVO_API_KEY": "xsmtpsib-a0e41e4f094409e7afb3738fd8148f51bd704478915f1145233f6e2f46048ade-yD9P87SOarbfUMEB",
-    "STRIPE_SECRET_KEY" : "sk_test_51OlUi6HkXpQM0uUW98wIZZWPQEQe9yO6QTsOqElUB60KA816lBQ7OLr9X49vbmNSBs2pxkgiVzZ0pPyYPEyUfg1y00O0Xs3jvo"
+    
+ "db": "mongodb+srv://carla2:11111@ibookcluster.uinntkc.mongodb.net/carla"
+    
   }
   
